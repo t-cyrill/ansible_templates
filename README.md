@@ -3,7 +3,7 @@ AnsibleTemplate
 
 Ansible task templates.
 
-See also http://docs.ansible.com/playbooks\_best\_practices.html
+See also http://docs.ansible.com/playbooks_best_practices.html
 
 ## Usage
 
